@@ -8,11 +8,11 @@
 }
 
 .color-dark{
-    background: #2885C4;
+    background: #2E7D32;
 }
 
 .color-light{
-    background: #57B3F1;
+    background: #66BB6A;
 }
 
 input.txt{
@@ -26,15 +26,17 @@ input.btn{
     border: 0;
     display: block;
     padding: 1em 3em;
-    background: #A5F883;
+    background: #FFEB3B;
     color: #003A61;
     margin-bottom: 1em;
     cursor: pointer;
+    font-weight: bold;
 }
 
 .life-container{
-    background: #3FA0E1;
+    background: #FFEB3B;
     padding: .5em;
     font-weight: bold;
     cursor: pointer;
+    color: #003A61;
 }
